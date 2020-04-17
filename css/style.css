@@ -145,6 +145,7 @@ body {
 }
 
 .card {
+    align-self: stretch;
     flex-basis: 31%;
 
     background: #FFFFFF;
